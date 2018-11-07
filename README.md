@@ -1,2 +1,2 @@
 # postag-lstm
-Model POSTag using LSTM
+Model POS(part-of-speech) Tagging using LSTM
