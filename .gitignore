@@ -1,1 +1,6 @@
-
+data/
+doc/
+src/data/
+src/graficos/
+src/results/
+.ipynb_checkpoints/
